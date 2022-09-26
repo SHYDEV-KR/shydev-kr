@@ -1,4 +1,4 @@
-## 🙋🏻‍♂️ About Me
+## 🙋🏻‍♂️ About Me ...
 ⭐️ Software Developer
 
 ✏️ Studying **Economics** & **Computer Science** & **Software Ventures** in Korea Univ.
