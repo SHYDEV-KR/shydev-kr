@@ -3,7 +3,7 @@
 
 ✏️ Studying **Economics** & **Computer Science** & **Software Ventures** in Korea Univ.
 
-✅ Interested in writing my **clean**, **reusable**, **easy readable** code . 
+✅ Interested in writing **clean**, **reusable**, **easy readable** code . 
 
 
 ## 💻 My Experiences ... 
